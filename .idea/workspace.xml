@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e5f6b3d-dc6d-424c-803f-dc02d3924862" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678944455217</updated>
-      <workItem from="1678944457220" duration="866000" />
+      <workItem from="1678944457220" duration="1191000" />
     </task>
     <servers />
   </component>
@@ -63,7 +64,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature/add-file1" />
+                        <option value="feature/add-file3" />
                       </list>
                     </value>
                   </entry>
